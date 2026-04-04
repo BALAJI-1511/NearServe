@@ -1,4 +1,4 @@
-﻿namespace NearServe.Model
+﻿namespace NearServe.Models
 {
     public class Account
     {
